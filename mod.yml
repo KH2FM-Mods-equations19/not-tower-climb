@@ -1,0 +1,30 @@
+title: Not the Tower Climb (1.0.0)
+description: Yen Sid's Tower is the Tower Climb.
+assets:
+  - name: remastered/map/us/eh01.bar/US_eh01_bar0.dds
+    multi:
+      - name: remastered/map/us/eh02.bar/US_eh02_bar0.dds
+      - name: remastered/map/us/eh03.bar/US_eh03_bar0.dds
+      - name: remastered/map/us/eh04.bar/US_eh04_bar0.dds
+      - name: remastered/map/us/eh05.bar/US_eh05_bar0.dds
+      - name: remastered/map/us/eh06.bar/US_eh06_bar0.dds
+      - name: remastered/map/us/eh07.bar/US_eh07_bar0.dds
+      - name: remastered/map/us/eh08.bar/US_eh08_bar0.dds
+      - name: remastered/map/us/eh09.bar/US_eh09_bar0.dds
+      - name: remastered/map/us/eh10.bar/US_eh10_bar0.dds
+      - name: remastered/map/us/eh11.bar/US_eh11_bar0.dds
+      - name: remastered/map/us/eh12.bar/US_eh12_bar0.dds
+      - name: remastered/map/us/eh13.bar/US_eh13_bar0.dds
+      - name: remastered/map/us/eh14.bar/US_eh14_bar0.dds
+      - name: remastered/map/us/eh15.bar/US_eh15_bar0.dds
+      - name: remastered/map/us/eh16.bar/US_eh16_bar0.dds
+      - name: remastered/map/us/eh17.bar/US_eh17_bar0.dds
+      - name: remastered/map/us/eh18.bar/US_eh18_bar0.dds
+      - name: remastered/map/us/eh19.bar/US_eh19_bar0.dds
+      - name: remastered/map/us/eh20.bar/US_eh20_bar0.dds
+      - name: remastered/map/us/eh21.bar/US_eh21_bar0.dds
+      - name: remastered/map/us/eh22.bar/US_eh22_bar0.dds
+    platform: pc
+    method: copy
+    source:
+      - name: not-tower-climb.dds
